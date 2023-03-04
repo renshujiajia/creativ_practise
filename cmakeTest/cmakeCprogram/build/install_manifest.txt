@@ -1,0 +1,5 @@
+/home/renshujia/2023_work/cmakeTest/cmakeCprogram/build/install/bin/main
+/home/renshujia/2023_work/cmakeTest/cmakeCprogram/build/install/lib/libdynamicA.so
+/home/renshujia/2023_work/cmakeTest/cmakeCprogram/build/install/lib/libdynamicD.so
+/home/renshujia/2023_work/cmakeTest/cmakeCprogram/build/install/lib/libdynamicC.so
+/home/renshujia/2023_work/cmakeTest/cmakeCprogram/build/install/lib/libstaticB.a

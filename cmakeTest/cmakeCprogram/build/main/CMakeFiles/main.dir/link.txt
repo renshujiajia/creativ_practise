@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/main.cpp.o -o main  -Wl,-rpath,/home/renshujia/2023_work/cmakeTest/cmakeCprogram/build/dynamicA:/home/renshujia/2023_work/cmakeTest/cmakeCprogram/build/dynamicC:/home/renshujia/2023_work/cmakeTest/cmakeCprogram/build/dynamicD: ../dynamicA/libdynamicA.so ../staticB/libstaticB.a ../dynamicC/libdynamicC.so ../dynamicD/libdynamicD.so 
